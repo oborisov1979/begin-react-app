@@ -22,7 +22,7 @@ const App = () => {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>{message}</p>
-        <p>Change me!</p>
+        <p>Измени меня!</p>
         <p>
           Редактируй <code>src/App.js</code> и сохраняй, чтобы перезагрузить.
         </p>
