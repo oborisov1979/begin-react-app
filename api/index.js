@@ -7,7 +7,7 @@ exports.handler = async function http (req) {
     },
     statusCode: 200,
     body: JSON.stringify({
-      message: 'Hello from your Begin API!'
+      message: 'Hello from your Begin API1!'
     })
   }
 }
