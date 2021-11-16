@@ -7,7 +7,7 @@ exports.handler = async function http (req) {
     },
     statusCode: 200,
     body: JSON.stringify({
-      message: 'API response should match.'
+      message: 'Привет от моего первого API приложения!'
     })
   }
 }
